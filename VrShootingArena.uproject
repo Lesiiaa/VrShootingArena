@@ -9,19 +9,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OpenXREyeTracker",
-			"Enabled": true
-		},
-		{
-			"Name": "OpenXRHandTracking",
-			"Enabled": true
-		},
-		{
 			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
 		},
 		{
 			"Name": "HttpBlueprint",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXREyeTracker",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXRHandTracking",
 			"Enabled": true
 		}
 	],
